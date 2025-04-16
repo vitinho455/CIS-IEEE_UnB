@@ -17,7 +17,7 @@ massa corporal (IMC), número de gestações e histórico familiar de diabetes. 
 variável Outcome indica se a paciente foi diagnosticada com diabetes (1) ou não
 (0).
 
-## Ferramentas
+## Ferramentas : 
 
 - Python - (Bibliotecas | Pandas, NumPy, Matplotlib, Seaborn e Scikit-Learn)
 - Jupyter
